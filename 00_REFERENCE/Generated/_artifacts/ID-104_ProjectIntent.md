@@ -26,7 +26,7 @@ Fine-tuning pipelines and interactive notebooks adapting SigLIP 2 vision-languag
 
 ## 3. Scope & Target Stack
 - **Domain**: Inteligencia Artificial / Machine Learning
-- **Target Platform / Environment**: TBD
+- **Target Platform / Environment**: 100% Local Workstation Execution (Offline-capable, embedded vector engine, local GPU/CPU inference, zero cloud dependencies)
 - **Pipeline Layout**: Minimal Workspace Layout (`00_REFERENCE`, `50_PROJECT` - expandable on demand)
 
 ---
