@@ -22,3 +22,4 @@ type: session_log
 ## 3. Immediate Next Decisions
 - Ready for Git commit and push upstream.
 - Future work: Implementation of ADR-005 (USD metadata extraction and hybrid vector fusion).
+

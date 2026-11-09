@@ -42,3 +42,4 @@ type: active_context
 ## 5. Immediate Blockers & Risks
 - **Blockers**: None. Core system fully operational and verified.
 - **Risks / Watch-outs**: When implementing `pxr.Usd` in `scanner.py`, ensure `PXR_USDC_EMIT_DEPRECATION_WARNINGS=0` is set to suppress 0.7.0 crate version notices from Omniverse USD files.
+
