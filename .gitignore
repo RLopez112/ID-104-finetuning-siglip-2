@@ -1,0 +1,54 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Data, temporary artifacts & local databases
+50_PROJECT/data/qdrant_db/
+50_PROJECT/data/*.png
+50_PROJECT/data/*.jpg
+50_PROJECT/data/*.jpeg
+50_PROJECT/data/*.webp
+*.lock
+
+# Model checkpoints and weights (Hugging Face / PyTorch)
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments, credentials and keys
+.env
+.env.*
+!.env.example
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

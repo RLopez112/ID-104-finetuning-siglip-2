@@ -1,0 +1,20 @@
+# PyTorch with CUDA 12.4 support
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch>=2.4.0
+torchvision
+
+# Vision-Language Models & Processors
+transformers>=4.48.0
+accelerate
+pillow
+numpy
+
+# Local Embedded Vector Database
+qdrant-client>=1.12.0
+
+# User Interfaces
+streamlit>=1.39.0
+
+# Testing
+pytest>=8.0.0
+
